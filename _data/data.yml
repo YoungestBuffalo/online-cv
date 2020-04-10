@@ -26,7 +26,7 @@ sidebar:
 
     languages:
       - idiom: AEM
-        level: 
+        
 
       - idiom: React.js
         level: 
@@ -42,6 +42,10 @@ sidebar:
 
       - idiom: Photoshop
         level: 
+
+      - idiom: AGILE
+        level:
+          
           
 
     interests:
