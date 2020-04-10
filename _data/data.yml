@@ -60,10 +60,10 @@ career-profile:
     summary: |
       I have often described myself as "eclectic". I love to program, cook, and play music.
 
-      In 2018 I attended Academy PGH where I learned to think like a developer from Jean and John Lange. They taught me how to learn on the job and adapt quickly to new technologies. 
+      In 2018 I attended Academy PGH where I learned to think like a developer. John and Jean Lange taught me how to learn on the job and adapt quickly to new technologies. 
       
       I am a young and professional programmer, with a strong interest in learning more about the world!
-      
+
 #education:
   #  - degree: Academy PGH
     #  university: 
@@ -76,22 +76,22 @@ experiences:
       time: 2019 - Present
       company: Highmark health, Pittsburgh
       details: |
-          -Maintain AHN Website. Moving new and old content from drupal system to AEM.
+          -Maintaing and updating AHN Website. Moving new and old content from drupal system to AEM.
 
-          -Use Agile to develop new ideas and learn new/old technologies while implementing additional content. 
+          -Using AGILE to develop new ideas and learn new/old technologies while implementing additional content. 
 
-    - role: Assistant Photographer
+    - role: Web Developer / Assistant Photographer
       time: 2019 - Present
       company: Mad Sierra Photography, Pennsylvania
       details: | 
         -Assist with photography at weddings and special events.
 
-        -Designing MadSierra’s New/upcoming Website.
+        -Designing MadSierra’s new/upcoming Website.
 
 projects:
     title: Personal Projects
     intro: >
-      Take a look at my github to see some of my works!
+      Take a look at my <a href="https://github.com/YoungestBuffalo" target="_blank" rel="nofollow">github</a> to see some of my works!
     assignments:
       - title: WIP MadSierra Website
         link: 
