@@ -93,17 +93,17 @@ projects:
     intro: >
       Take a look at my <a href="https://github.com/YoungestBuffalo" target="_blank" rel="nofollow">github</a> to see some of my works!
     assignments:
-      - title: WIP MadSierra Website
+      - title: MadSierra Website
         link: 
         tagline: "Using Django and Photoshop for initial designs."
 
       - title: Resume Site
         link: 
-        tagline: "React.js webpage (HTML, CSS, Ajax) that uses Git, GitPages and showcases all of my works, and my design (UX/UI) capabilities"
+        tagline: "React.js webpage (HTML, CSS, Ajax) that uses Git, GitPages and showcases all of my works, and my design (UX/UI) capabilities."
 
       - title: Movie DB Search
         link: 
-        tagline: "React.js webpage (JS, CSS, Axios) that uses bootstrap, Git, GitPages and showcases a working title search, and use of an API to pull data"
+        tagline: "React.js webpage (JS, CSS, Axios) that uses bootstrap, Git, GitPages and showcases a working title search, and use of an API to pull data."
 
 #publications:
  #   title: Publications
