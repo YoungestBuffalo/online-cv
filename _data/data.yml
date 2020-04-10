@@ -8,31 +8,31 @@ sidebar:
 
     # Profile information
     name: Julian Orr
-    tagline: Web Developer
+    tagline: Front-End Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: j.henry.b.orr@gmail.com
     phone: 509 844 8781
-    website: youngestbuffalo.github.io/react-resume1.3/ #do not add http://
-    linkedin: julian-orr-06b342174
-    github: sharu725
+    website:  #do not add http://
+    linkedin: julian412
+    github: youngestbuffalo
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+#    languages:
+#      - idiom: English
+#        level: Native
+#
+#      - idiom: French
+#        level: Professional
+#
+#      - idiom: Spanish
+#        level: Professional
 
     interests:
       - item: Music
@@ -45,10 +45,10 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
       I am a hireable, young, professional, entry level programmer and bootcamp grad,
-      with a strong interest in learning new and interesting material. (preferably at a job/contract)
+      with a strong interest in learning new and interesting material. 
 education:
     - degree: Academy PGH
       university: 
@@ -57,7 +57,7 @@ education:
        
     
 experiences:
-    - role: Junior Developer
+    - role: Web Developer / Content Author
       time: 2019 - Present
       company: Highmark health, Pittsburgh
       details: |
@@ -66,27 +66,27 @@ experiences:
 
     - role: Assistant Photographer
       time: 2019 - Present
-      company: Madsierraphotography
+      company: Mad Sierra Photography, Pennsylvania
       details: | 
         -Assist with photography at weddings and special events
         -Designing MadSierra’s New/upcoming Website
 
 projects:
-    title: Projects
+    title: Personal Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: WIP MadSierra Website
+        link: "#youngestbuffalo.github.io/react-resume1.3/"
+        tagline: "Django and Photoshop for initial designs."
 
-      - title: DevStudio
+      - title: WIP Resume Site
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: Movie DB Search
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
