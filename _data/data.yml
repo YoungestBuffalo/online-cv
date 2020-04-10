@@ -95,7 +95,7 @@ projects:
         link: 
         tagline: "Django and Photoshop for initial designs."
 
-      - title: WIP Resume Site
+      - title: Resume Site
         link: 
         tagline: "React.js (HTML, CSS, Ajax), Git, GitPages. Showcases: All of my works, design, UX/UI"
 
@@ -148,6 +148,6 @@ projects:
     #    level: 
 
 footer: >
-    <div>This webpage is not representative of my work, my <a href="https://youngestbuffalo.github.io/react-resume1.3/" target="_blank" rel="nofollow">personal website</a> is a work in progress</div>
+    <div>This webpage is not representative of my design, my <a href="https://youngestbuffalo.github.io/react-resume1.3/" target="_blank" rel="nofollow">personal website</a> is a work in progress</div>
 
     <div>Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a></div>
