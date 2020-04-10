@@ -44,8 +44,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I was first exposed to programming in middle school when my family moved from our home in Spokane, Washington to the South Hills of Pittsburgh. I wasn’t exactly a model student, I was excited to learn, I liked playing music, and I loved computer games. The traditional school system felt constrictive to creative thought and seemed to reward the wrong style of learning. Personally, I had better experiences with learning through different styles of mentorship. While graduating from Mount Lebanon I struggled to find something that spoke to my core as a career path. I wasn’t extremely keen on continuing my traditional education, but I felt the pressure to continue academically, especially because of the importance of a degree in most fields. I enrolled in college to study biology at Unity College in Maine. After a semester of undergrad I knew that I wanted to do something different. I finished my first year of studies, and moved back to Pittsburgh to find work. I eventually found that programming was a great thing to study! It satisfies my interest in understanding complex ideas, my pursuit of challenging material, and my passion for creativity. I have found the most value studying software development on my own and with various mentors. I enjoy coding because I am always learning new methods and styles and most communities online are encouraging and open minded.
-      TL;DR I am a hireable, young, professional, entry level programmer and bootcamp grad, with a strong interest in learning new and interesting material. (preferably at a job/contract)
+      I am an eclectic person. Most importantly I am a programmer, musician, cook, and traveller. I am a young and professional programmer, with strong interest in learning more about the world!
 education:
     - degree: Academy PGH
       university: 
@@ -71,20 +70,18 @@ experiences:
 projects:
     title: Personal Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      The link to my github is on the right side nav 
     assignments:
       - title: WIP MadSierra Website
         link: 
         tagline: "Django and Photoshop for initial designs."
 
       - title: WIP Resume Site
-        link: "youngestbuffalo.github.io/react-resume1.3/"
+        link: 
         tagline: "React.js (HTML, CSS, Ajax), Git, GitPages. Showcases: All of my works, design, UX/UI"
 
       - title: Movie DB Search
-        link: "#"
+        link: 
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
 #publications:
@@ -110,26 +107,26 @@ projects:
   #      conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: AEM
-        level: 80%
+        level: 
 
       - name: React.js
-        level: 98%
+        level: 
 
       - name: Drupal
-        level: 60%
+        level: 
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 
 
       - name: Ruby on Rails
-        level: 85%
+        level: 
 
       - name:  Photoshop
-        level: 50%
+        level: 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
