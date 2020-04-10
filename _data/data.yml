@@ -86,7 +86,7 @@ experiences:
       details: | 
         -Assist with photography at weddings and special events.
 
-        -Designing MadSierra’s new/upcoming Website.
+        -Designing Mad’s new and upcoming website.
 
 projects:
     title: Personal Projects
@@ -95,15 +95,15 @@ projects:
     assignments:
       - title: WIP MadSierra Website
         link: 
-        tagline: "Django and Photoshop for initial designs."
+        tagline: "Using Django and Photoshop for initial designs."
 
       - title: Resume Site
         link: 
-        tagline: "React.js (HTML, CSS, Ajax), Git, GitPages. Showcases: All of my works, design, UX/UI"
+        tagline: "React.js webpage (HTML, CSS, Ajax) that uses Git, GitPages and showcases all of my works, and my design (UX/UI) capabilities"
 
       - title: Movie DB Search
         link: 
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "React.js webpage (JS, CSS, Axios) that uses bootstrap, Git, GitPages and showcases a working title search, and use of an API to pull data"
 
 #publications:
  #   title: Publications
