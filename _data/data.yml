@@ -79,12 +79,12 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: WIP MadSierra Website
-        link: "#youngestbuffalo.github.io/react-resume1.3/"
+        link: 
         tagline: "Django and Photoshop for initial designs."
 
       - title: WIP Resume Site
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        link: "youngestbuffalo.github.io/react-resume1.3/"
+        tagline: "React.js (HTML, CSS, Ajax), Git, GitPages. Showcases: All of my works, design, UX/UI"
 
       - title: Movie DB Search
         link: "#"
