@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -34,6 +34,16 @@ sidebar:
       - idiom: Drupal
         level: 
 
+      - idiom: HTML5 & CSS
+        level: 
+
+      - idiom: Ruby on Rails
+        level: 
+
+      - idiom: Photoshop
+        level: 
+          
+
     interests:
       - item: Music
         link: https://soundcloud.com/julianhenrymusic
@@ -46,8 +56,9 @@ career-profile:
     summary: |
       I am an eclectic person. Most importantly I am a programmer, musician, cook, and traveller. I am a young and professional programmer, with strong interest in learning more about the world!
 
-      In 2018 I attended Academy PGH. I learned how to think like a developer from Jean and John Lange. They taught me how to learn on the job and adapt quickly to new technologies.
-      #education:
+      In 2018 I attended Academy PGH. I learned how to think like a developer from Jean and John Lange. They taught me how to learn on the job and adapt quickly to new technologies. 
+      
+#education:
   #  - degree: Academy PGH
     #  university: 
     #  time: December 2018 
@@ -133,5 +144,6 @@ projects:
     #    level: 
 
 footer: >
-    This webpage is not representative of my work, my personal website <a href="https://youngestbuffalo.github.io/react-resume1.3/" target="_blank" rel="nofollow"> is a work in progress
+    This webpage is not representative of my work, my <a href="https://youngestbuffalo.github.io/react-resume1.3/" target="_blank" rel="nofollow">personal website</a> is a work in progress
+
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
