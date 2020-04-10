@@ -45,11 +45,13 @@ career-profile:
     title: About Me
     summary: |
       I am an eclectic person. Most importantly I am a programmer, musician, cook, and traveller. I am a young and professional programmer, with strong interest in learning more about the world!
-education:
-    - degree: Academy PGH
-      university: 
-      time: December 2018 
-      details: |
+
+      In 2018 I attended Academy PGH. I learned how to think like a developer from Jean and John Lange. They taught me how to learn on the job and adapt quickly to new technologies.
+      #education:
+  #  - degree: Academy PGH
+    #  university: 
+    #  time: December 2018 
+     # details: |
        
     
 experiences:
@@ -66,13 +68,13 @@ experiences:
       company: Mad Sierra Photography, Pennsylvania
       details: | 
         -Assist with photography at weddings and special events.
-        
+
         -Designing MadSierra’s New/upcoming Website.
 
 projects:
     title: Personal Projects
     intro: >
-      The link to my github is on the right side nav 
+      Take a look at my github to see some of my works!
     assignments:
       - title: WIP MadSierra Website
         link: 
@@ -131,4 +133,5 @@ projects:
     #    level: 
 
 footer: >
+    This webpage is not representative of my work, my personal website <a href="https://youngestbuffalo.github.io/react-resume1.3/" target="_blank" rel="nofollow"> is a work in progress
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
