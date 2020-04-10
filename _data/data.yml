@@ -16,7 +16,7 @@ sidebar:
     phone: 509 844 8781
     website:  #do not add http://
     linkedin: julian412
-    github: youngestbuffalo
+    github: YoungestBuffalo
     gitlab:
     bitbucket:
     twitter: 
@@ -36,13 +36,10 @@ sidebar:
 
     interests:
       - item: Music
-        link:
+        link: https://soundcloud.com/julianhenrymusic
 
       - item: Programming
-        link:
-
-      - item: Cooking
-        link:
+        link: https://github.com/YoungestBuffalo
 
 career-profile:
     title: About Me
@@ -61,15 +58,15 @@ experiences:
       time: 2019 - Present
       company: Highmark health, Pittsburgh
       details: |
-          -Maintain AHN Website. Moving new and old content from drupal system to AEM
-          -Use Agile to develop new ideas and learn new/old technologies while implementing additional content 
+          -Maintain AHN Website. Moving new and old content from drupal system to AEM.
+          -Use Agile to develop new ideas and learn new/old technologies while implementing additional content. 
 
     - role: Assistant Photographer
       time: 2019 - Present
       company: Mad Sierra Photography, Pennsylvania
       details: | 
-        -Assist with photography at weddings and special events
-        -Designing MadSierra’s New/upcoming Website
+        -Assist with photography at weddings and special events.
+        -Designing MadSierra’s New/upcoming Website.
 
 projects:
     title: Personal Projects
