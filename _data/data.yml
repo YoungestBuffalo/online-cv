@@ -106,27 +106,27 @@ projects:
   #      authors: Edgar T. Irons
   #      conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
+#skills:
+ #   title: Skills &amp; Proficiency
 
-    toolset:
-      - name: AEM
-        level: 
+  #  toolset:
+   #   - name: AEM
+    #    level: 
 
-      - name: React.js
-        level: 
+     # - name: React.js
+    #    level: 
 
-      - name: Drupal
-        level: 
+      #- name: Drupal
+    #    level: 
 
-      - name: HTML5 & CSS
-        level: 
+      #- name: HTML5 & CSS
+    #    level: 
 
-      - name: Ruby on Rails
-        level: 
+      #- name: Ruby on Rails
+    #    level: 
 
-      - name:  Photoshop
-        level: 
+      #- name:  Photoshop
+    #    level: 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
