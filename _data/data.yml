@@ -72,6 +72,8 @@ career-profile:
        
     
 experiences:
+      intro: >
+      Here's a link to my <a href="RESUMEDC.pdf" target="_blank" rel="nofollow">full resume as a PDF</a>
     - role: Web Developer / Content Author
       time: 2019 - Present
       company: Highmark health, Pittsburgh
