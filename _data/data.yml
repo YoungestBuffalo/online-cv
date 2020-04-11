@@ -64,7 +64,7 @@ career-profile:
       
       I am a young and professional programmer, with a strong interest in learning more about the world!
 
-      <div>Here's a link to my <a href="RESUMEDC.pdf" target="_blank" rel="nofollow">full resume as a PDF</a> if needed!</div>
+      <div>Here's a link to my <a href="assets/RESUMEDC.pdf" target="_blank" rel="nofollow">full resume as a PDF</a> if needed!</div>
 
 #education:
   #  - degree: Academy PGH
