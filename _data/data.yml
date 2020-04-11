@@ -64,6 +64,8 @@ career-profile:
       
       I am a young and professional programmer, with a strong interest in learning more about the world!
 
+      Here's a link to my <a href="RESUMEDC.pdf" target="_blank" rel="nofollow">full resume as a PDF</a> if needed!
+
 #education:
   #  - degree: Academy PGH
     #  university: 
@@ -72,8 +74,6 @@ career-profile:
        
     
 experiences:
-      intro: >
-      Here's a link to my <a href="RESUMEDC.pdf" target="_blank" rel="nofollow">full resume as a PDF</a>
     - role: Web Developer / Content Author
       time: 2019 - Present
       company: Highmark health, Pittsburgh
