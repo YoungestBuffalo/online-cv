@@ -25,7 +25,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: AEM
+      - idiom: Adobe Experience Manager
         
 
       - idiom: React.js
@@ -84,7 +84,7 @@ experiences:
       time: 2019 - Present
       company: Mad Sierra Photography, Pennsylvania
       details: | 
-        -Assist with photography at weddings and special events.
+        <div>-Assist with photography at weddings and special events.</div>
 
         -Designing Mad’s new and upcoming website.
 
